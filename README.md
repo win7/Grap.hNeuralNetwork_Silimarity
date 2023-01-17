@@ -1,1 +1,1 @@
-# GraphNeuralNetwork_Silimarity
+# GraphNeuralNetwork_Similarity
